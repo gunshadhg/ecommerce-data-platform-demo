@@ -1,0 +1,23 @@
+# Generated database
+*.db
+
+# Compiled Java artifacts
+*.class
+*.jar
+
+# Runtime state
+*.pid
+logs/
+checkpoints/
+savepoints/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+*.tmp
+
