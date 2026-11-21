@@ -1,0 +1,4 @@
+{"event_id":"e8","event_type":"view","user_id":1004,"product_id":1101,"amount":0.0,"event_ts":"2026-11-19T00:05:00"}
+{"event_id":"e9","event_type":"pay","user_id":1004,"product_id":1101,"amount":450.0,"event_ts":"2026-11-19T00:06:00"}
+{"event_id":"e10","event_type":"pay","user_id":1005,"product_id":1103,"amount":900.0,"event_ts":"2026-11-19T00:07:00"}
+{"event_id":"e11","event_type":"view","user_id":1005,"product_id":1103,"amount":0.0,"event_ts":"2026-11-19T00:11:30"}
